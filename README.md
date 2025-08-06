@@ -113,6 +113,6 @@ Among them, `update.img` is the system image to be burned
 ****Tools link****
 ```
 Baidu Netdisk
-link: https://pan.baidu.com/s/1lEoXMauT_sU8QOTijVdqUg 
-Extraction code: 4jcj 
+link: https://pan.baidu.com/s/1_lZ7GAd31GD8kRTQjE3rdg 
+Extraction code: aabb 
 ```
