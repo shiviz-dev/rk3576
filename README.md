@@ -109,10 +109,3 @@ Among them, `update.img` is the system image to be burned
 ****Document link****
 
 [rk3576.doc](https://github.com/shiviz-dev/rk3576/blob/adjustment_directory/Documents/RK3576.doc)
-
-****Tools link****
-```
-Baidu Netdisk
-link: https://pan.baidu.com/s/1_lZ7GAd31GD8kRTQjE3rdg 
-Extraction code: aabb 
-```
