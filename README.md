@@ -1,5 +1,6 @@
 RK3576
 -----------
+[中文](./README_CN.md)
 * [Product Introduction](#product-introduction)
 * [User Guide](#user-guide)
 * [Parameter Configuration](#parameter-configuration)
@@ -109,3 +110,5 @@ Among them, `update.img` is the system image to be burned
 ****Document link****
 
 [rk3576.doc](https://github.com/shiviz-dev/rk3576/blob/adjustment_directory/Documents/RK3576.doc)
+
+[Download of image file](https://github.com/shiviz-dev/rk3576-dev-board/releases/)
